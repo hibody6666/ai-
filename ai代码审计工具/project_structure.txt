@@ -1,0 +1,12 @@
+ai代码审计工具
+├── core_engine.py       # 核心引擎模块
+├── code_audit.py       # 代码审计模块
+├── ai_models.py        # AI模型调用模块
+├── web_crawler.py      # 爬虫模块
+├── data_analysis.py    # 数据分析模块
+├── gui                 # GUI界面
+│   ├── main_window.py  # 主窗口
+│   ├── components      # 组件
+│   └── styles          # 样式
+├── requirements.txt    # 依赖库
+└── README.md           # 项目说明

@@ -1,0 +1,17 @@
+{
+    "chatgpt": {
+        "api_key": "",
+        "api_base": "https://api.openai.com/v1"
+    },
+    "deepseek": {
+        "api_key": "",
+        "api_base": "https://api.deepseek.com/v1"
+    },
+    "kimi": {
+        "api_key": "",
+        "api_base": "https://api.moonshot.cn/v1"
+    },
+    "ollama": {
+        "api_base": "http://localhost:11434"
+    }
+}
